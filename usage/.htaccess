@@ -1,0 +1,19 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.html -f 
+RewriteRule ^(.*)$ $1.html
+
+ErrorDocument 400 /hom3/400
+
+ErrorDocument 401 /hom3/401
+
+ErrorDocument 403 /hom3/403
+
+ErrorDocument 404 /hom3/404
+
+ErrorDocument 500 /hom3/500
