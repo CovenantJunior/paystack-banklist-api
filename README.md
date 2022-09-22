@@ -132,11 +132,11 @@
     <div class="Header__Container-sc-3080ts-0 hayFeg">
         <div class="Header__Description-sc-3080ts-1 fgTfWi"><span class="Header__Label-sc-3080ts-2 dYeXKJ">GET</span><span class="title">/country</span></div>
         <div class="Header__Dropdown-sc-3080ts-3 kswQRF">
-            <select style="width: 51px;">
+            <!--<select style="width: 51px;">
                 <option selected="">cURL</option>
                 <option>Node</option>
                 <option>PHP</option>
-            </select>
+            </select>-->
             <div id="compute_select">Node</div>
         </div>
     </div>
@@ -156,11 +156,11 @@
     <div class="Header__Container-sc-3080ts-0 hayFeg">
         <div class="Header__Description-sc-3080ts-1 fgTfWi"><span class="Header__Label-sc-3080ts-2 dYeXKJ">GET</span><span class="title">/country</span></div>
         <div class="Header__Dropdown-sc-3080ts-3 kswQRF">
-            <select style="width: 44px;">
+            <!--<select style="width: 44px;">
                 <option selected="">cURL</option>
                 <option>Node</option>
                 <option>PHP</option>
-            </select>
+            </select>-->
             <div id="compute_select">PHP</div>
         </div>
     </div>
@@ -178,9 +178,9 @@
                     <div class="Header__Container-sc-3080ts-0 hayFeg">
                         <div class="Header__Description-sc-3080ts-1 fgTfWi"><span class="title">Sample Response</span></div>
                         <div class="Header__Dropdown-sc-3080ts-3 kswQRF">
-                            <select style="width: 64px;">
+                            <!--<select style="width: 64px;">
                                 <option selected="">200 OK</option>
-                            </select>
+                            </select>-->
                             <div id="compute_select">200 OK</div>
                         </div>
                     </div>
