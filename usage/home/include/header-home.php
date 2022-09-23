@@ -9,7 +9,7 @@
                                 <span class="hamburger-inner"></span>
                             </span>
                         <p style="color: #6600b9;" id="title">
-                    <!--<img src="images/icon/icon.png" alt="Cool Admin" style="height: 25px ; width: 25px ; display: inline-flex;" />-->&nbsp;&nbsp;PAYSPIELOO </p>
+                    <!--<img src="images/icon/icon.png" alt="Cool Admin" style="height: 25px ; width: 25px ; display: inline-flex;" />-->&nbsp;&nbsp;PAYSTACK DEMO</p>
                         </button>
 
 <!DOCTYPE html>
