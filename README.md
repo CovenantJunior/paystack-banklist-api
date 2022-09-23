@@ -175,7 +175,7 @@
 </div>
 
 <div>
-    Response 200
+    Sample Response   200 OK
     <pre>{
   "status": true,
   "message": "Banks retrieved",
