@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="theme-color" content="#fff">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
-    <meta name="description" content="Payspieloo Withdraw">
+    <meta name="description" content="Withdraw">
     <meta name="author" content="Covenant T. Junior">
-    <meta name="keywords" content="Payspieloo Profile Card">
+    <meta name="keywords" content="Profile Card">
     <link rel="icon" type="image/png" sizes="16x16" href="images/icon/favicon.png">
     <!-- Title Page-->
-    <title>Payspieloo | Withdraw</title>
+    <title>ithdraw</title>
 
     <style type="text/css">
         .fh5co-loader2 {
